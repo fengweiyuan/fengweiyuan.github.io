@@ -11,7 +11,7 @@ github_repo: "https://github.com/fengweiyuan/fengweiyuan.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                                                         # 是否使用侧边栏
-sidebar-about-description: "腾讯数据库工程师  wxchat(微信):fengweiyuan0529"                           # 一句话描述自己
+sidebar-about-description: "腾讯数据库工程师  wechat:fengweiyuan0529"                           # 一句话描述自己
 sidebar-avatar: /img/about-varian-gentle.jpg                          # 头像路径
 
 
