@@ -8,6 +8,7 @@ author:     冯伟源
 catalog: true
 tags:
     - redis
+    - 数据结构
 ---
 
 string对象的底层编码

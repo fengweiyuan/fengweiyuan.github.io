@@ -7,7 +7,8 @@ author:     冯伟源
 # header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - redis 数据结构
+    - redis
+    - 数据结构
 ---
 
 LIST对象的底层编码
