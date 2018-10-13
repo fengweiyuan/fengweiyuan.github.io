@@ -1,9 +1,9 @@
 # Site settings
-title: 没有人什么也无法实现；但没有制度，什么都无法持续
+title: 架构是对客观不足的妥协，规范是对主观不足的妥协
 SEOTitle: 冯伟源的博客 | fengweiyuan | 冯伟源
 header-img: img/post-bg-desk.jpg
 email: 107639177@qq.com
-description: "Every failure is leading towards success."
+description: "If you can not measure it, you can not improve it."
 keyword: "fengweiyuan, 冯伟源, 冯伟源的技术博客, DBA, Python"
 url: "http://fengweiyuan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/fengweiyuan/fengweiyuan.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                                                         # 是否使用侧边栏
-sidebar-about-description: "腾讯数据库工程师  wechat:fengweiyuan0529"                           # 一句话描述自己
+sidebar-about-description: "腾讯 高级数据库工程师"                           # 一句话描述自己
 sidebar-avatar: /img/about-varian-gentle.jpg                          # 头像路径
 
 
