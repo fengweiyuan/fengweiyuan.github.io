@@ -18,11 +18,11 @@ SET对象的底层编码
 
 #### 1. 使用intset做底层实现
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/C88302AEFFDA4F85BB5C910B1AAF287D?ynotemdtimestamp=1539402928162)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/C88302AEFFDA4F85BB5C910B1AAF287D)
 
 #### 2. 使用dict做底层实现
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/F0F940A8958D45C5804B0F46F401FAF3?ynotemdtimestamp=1539402928162)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/F0F940A8958D45C5804B0F46F401FAF3)
 
 #### 3. 编码转换
 
@@ -44,6 +44,6 @@ object encoding number   #hashtable
 
 #### 4. SET对象在不同编码下对命令的处理逻辑
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/C557B6A6FE9B46A1AA42E2C221526FE0?ynotemdtimestamp=1539402928162)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/C557B6A6FE9B46A1AA42E2C221526FE0)
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/94067596D9BD4571A1ED4ED98E4853B8?ynotemdtimestamp=1539402928162)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/94067596D9BD4571A1ED4ED98E4853B8)

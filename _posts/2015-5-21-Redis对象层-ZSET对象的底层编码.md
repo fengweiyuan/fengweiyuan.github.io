@@ -25,9 +25,9 @@ ZSET对象的底层编码
 - ziplist内的集合元素，按分值从小到大进行排序；
 - 分值较小的元素靠表头，分值较大的靠表尾；
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/7D4A22478B2D4827B008193A14EFA419?ynotemdtimestamp=1539403190776)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/7D4A22478B2D4827B008193A14EFA419)
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/AF35566EDE56490AB1D34817ADABD63D?ynotemdtimestamp=1539403190776)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/AF35566EDE56490AB1D34817ADABD63D)
 > zset对象的各个元素，在ziplist中按分值从小到大排列
 
 #### 2. skiplist
@@ -65,4 +65,4 @@ typedef  struct  zset {
 
 #### 4. zset命令在不同编码下的实现逻辑
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/482134BEF46C4E5F9BEC4E5EF01BDB1B?ynotemdtimestamp=1539403190776)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/482134BEF46C4E5F9BEC4E5EF01BDB1B)

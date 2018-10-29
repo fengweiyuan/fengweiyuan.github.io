@@ -49,7 +49,7 @@ robj *createZiplistObject(void) {
 }
 ```
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/00F27406155E45B796485715369B20B2?ynotemdtimestamp=1539351978490)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/00F27406155E45B796485715369B20B2)
 
 #### 4. 创建使用linkedlist作为底层编码的list对象
 
@@ -63,10 +63,10 @@ robj *createListObject(void) {
 }
 ```
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/26A51D888E934CA5881E426A66BA1556?ynotemdtimestamp=1539351978490)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/26A51D888E934CA5881E426A66BA1556)
 
 #### 5. 不同编码下List命令的实现
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/56BF4187ACA64138BC20740B295F9A5C?ynotemdtimestamp=1539351978490)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/56BF4187ACA64138BC20740B295F9A5C)
  
 

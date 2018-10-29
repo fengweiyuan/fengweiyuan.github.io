@@ -44,8 +44,8 @@ object encoding name # 是hashtable
 - 因此，key与value值是相邻的，key在前，value在后；
 - 后添加的key-value会在ziplist的表尾；
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/A2C3E1F19469409AA72097902A8A956A?ynotemdtimestamp=1539352991991)
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/C9442AC923D64C99BDE5796094930407?ynotemdtimestamp=1539352991991)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/A2C3E1F19469409AA72097902A8A956A)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/C9442AC923D64C99BDE5796094930407)
 
 #### 3. 使用字典作为底层实现
 
@@ -55,4 +55,4 @@ object encoding name # 是hashtable
 - 哈希对象 -> 字典数据结构 -> 字符串对象   
 - 所以不一定就是对象使用编码，可能是编码也再使用对象，形成一些嵌套引用；
 
-![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/7627AE5FA9B641089907D4B16CD5BF89?ynotemdtimestamp=1539352991991)
+![image](https://note.youdao.com/yws/public/resource/974b6569a100fd7aa6edd53407460255/7627AE5FA9B641089907D4B16CD5BF89)
